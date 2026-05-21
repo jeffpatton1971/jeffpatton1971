@@ -1,2 +1,2 @@
-[![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffpatton1971)](https://github.com/anuraghazra/github-readme-stats)
-![Stats](profile/stats.svg)
+![Github Stats](https://raw.githubusercontent.com/jeffpatton1971/jeffpatton1971/refs/heads/main/profile/stats.svg)
+![Top Languages](https://raw.githubusercontent.com/jeffpatton1971/jeffpatton1971/refs/heads/main/profile/top-labngs.svg)
