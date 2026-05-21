@@ -901,30 +901,7 @@ After creating the files:
 
 ---
 
-# 11. BAT/vNext Additions
-
-For BAT/vNext repositories, add rule files such as:
-
-```text
-terraform-rendering.md
-plugin-architecture.md
-domain-models.md
-github-actions.md
-```
-
-Important BAT/vNext themes:
-
-- provider vs renderer separation
-- defaulting and validation boundaries
-- plugin registration patterns
-- resource model conventions
-- Terraform output rules
-- PowerShell module/cmdlet conventions
-- tests as the source of truth
-
----
-
-# 12. Verification
+# 11. Verification
 
 ## Verify Ollama is being used
 
@@ -969,7 +946,7 @@ You should see tool activity in Continue.
 
 ---
 
-# 13. Common Problems
+# 12. Common Problems
 
 ## `Tool cat not found`
 
@@ -1041,7 +1018,7 @@ code .
 
 ---
 
-# 14. Recommended Stable Setup
+# 13. Recommended Stable Setup
 
 Start with:
 
@@ -1059,7 +1036,7 @@ Add GitHub MCP only after the first two MCPs are stable.
 
 ---
 
-# 15. Long-Term Improvement
+# 14. Long-Term Improvement
 
 Eventually consider a custom BAT MCP server.
 
@@ -1079,4 +1056,3 @@ This would provide:
 - shared conventions
 - significantly better grounding
 - better local agent performance
-- 
