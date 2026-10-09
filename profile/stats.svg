@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jeff Patton&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 43, Total Commits  (last year) : 1612, Total PRs: 1141, Total Issues: 706, Contributed to (last year): 28</desc>
+        <desc id="descId">Total Stars Earned: 43, Total Commits  (last year) : 1620, Total PRs: 321, Total Issues: 695, Contributed to (last year): 28</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 50.79744293887013;
+        stroke-dashoffset: 51.52069205672551;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >1.1k</text>
+      >321</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >706</text>
+      >695</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
